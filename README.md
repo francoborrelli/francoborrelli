@@ -6,7 +6,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>Enthusiastic and results-oriented Software Engineer with 7+ years of experience leveraging the software development lifecycle to build and deploy highly available, scalable applications. Possesses strong expertise in various technologies for application development, networking, and infrastructure management.
+  <samp>Enthusiastic and results-oriented Software Engineer with 7+ years of experience leveraging the software development lifecycle to build and deploy highly available, scalable applications. I have strong expertise in various technologies for application development, networking, and infrastructure management.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=francoborrelli" alt="https://github.com/francoborrelli" />
