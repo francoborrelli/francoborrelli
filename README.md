@@ -14,7 +14,7 @@
 
 <hr>
 
-<h2 align="center"> 🔭 Currently using... </h2>
+<h2 align="center"> ⭐ Currently using... </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>&nbsp;&nbsp;&nbsp;
@@ -27,7 +27,7 @@
 
 <hr>
 
-<h2 align="center"> 🔭 But i also know a bit about...</h2>
+<h2 align="center"> ⚡ But i also know a bit about...</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp;&nbsp;&nbsp;
