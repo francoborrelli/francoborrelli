@@ -2,7 +2,8 @@
 **francoborrelli/francoborrelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
 
-<h1 align="center"> Hey there, I'm Franco 👋 </h1>
+<h1 align="center"> Hey there, I'm Franco   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+ </h1>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
