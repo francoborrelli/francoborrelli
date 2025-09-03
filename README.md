@@ -53,5 +53,5 @@
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/francoborrelli/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://open.spotify.com/user/21dzxax5geyjawwrgvrjogqwa?si=54468bda2a7e422d&nd=1&dlsi=80ef88cf2ba9453b"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:francoborrelli96@gmail.com?subject=Hello%Franco,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:francomartinborrelli@gmail.com?subject=Hello%Franco,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
