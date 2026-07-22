@@ -14,8 +14,6 @@
   Building scalable web, mobile and desktop applications.
 </p>
 
----
-
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
@@ -27,8 +25,6 @@
   I enjoy solving complex engineering problems, modernizing legacy applications, and building products that people use every day.
 </p>
 
----
-
 <h2 align="center">🚀 Currently</h2>
 
 <p align="center">
@@ -38,8 +34,6 @@
   ☁️ Working with AWS, Docker and cloud infrastructure<br>
   🤖 Learning more about AI integrations and LLMs
 </p>
-
----
 
 <h2 align="center">💻 Main Stack</h2>
 
@@ -53,8 +47,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-
----
 
 <h2 align="center">🛠️ Also Worked With</h2>
 
@@ -75,19 +67,15 @@
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
 </p>
 
----
-
 <h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/francoborrelli/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a target="_blank" href="https://open.spotify.com/user/21dzxax5geyjawwrgvrjogqwa">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
-
   <a href="mailto:francomartinborrelli@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
